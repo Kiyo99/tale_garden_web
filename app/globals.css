@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+/* Add a custom font-family class for Lora */
+.font-lora {
+  font-family: var(--font-lora), serif;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
