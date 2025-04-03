@@ -53,4 +53,4 @@ The theme switching is implemented using a context provider that persists the us
 
 ---
 
-Created with ❤️ by [Godsfavour Kio](https://godsfavourkio.com)
+Created by [Godsfavour Kio](https://godsfavourkio.com)
